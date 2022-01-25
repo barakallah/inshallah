@@ -6,4 +6,4 @@ This package will not guarantee anything because not even God can sort this mess
 
 > With nodejs ,npm, yarn and ts we strayed further away from God 
 
-> With every npm package that we publish we’re straying further away from God .
+> With every npm package that we publish we’re straying further away from God
