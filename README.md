@@ -1,6 +1,6 @@
 # About
 
-Adding this package to your project will only provide hope that God turns his face towards you and prevent any mind-bending hours-long debugging sessions that this perverted JS ecosystem has managed to create.
+Adding this package to your project will only provide hope that God turns his face towards you and prevents any mind-bending hours-long debugging sessions that this perverted JS ecosystem has managed to create.
 
 This package will not guarantee anything because not even God can sort this mess we have created. 
 
